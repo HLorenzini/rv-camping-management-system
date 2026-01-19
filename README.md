@@ -2,8 +2,6 @@
 
 A Java-based desktop application designed to manage RV camping operations, including user applications, RV inspections, document management, maintenance requests, and administrative approval workflows.
 
-This project simulates a real-world system and was built to demonstrate backend architecture, business rules, security, and desktop application development using Java.
-
 ---
 
 ## 📌 Project Overview
@@ -128,7 +126,7 @@ Relationships:
 ## Backend Setup
 
 ```bash
-git clone https://github.com/your-username/rv-camping-management-system.git
+git clone https://github.com/HLorenzini/rv-camping-management-system
 cd backend
 mvn spring-boot:run
 ```
@@ -194,5 +192,5 @@ This project was built for learning and portfolio purposes, with a focus on:
 - Aspiring Java Developer
 
 ## 📬 Contact
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
+- GitHub: https://github.com/HLorenzini
+- LinkedIn: https://linkedin.com/in//heloisalorenzini/
